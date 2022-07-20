@@ -1,5 +1,8 @@
 # Internet_techonologies_lab5
 Internet_techonologies_lab5
+
+Задание выполнил Плугин Владислав Вячеславович КИУКИ-19-5
+
 ![image](https://user-images.githubusercontent.com/53383007/180023778-47476348-ec12-4107-9ac9-a11b9ae9eaae.png)
 ![image](https://user-images.githubusercontent.com/53383007/180023853-0444d0aa-a7f4-402c-8501-b082169e3081.png)
 ![image](https://user-images.githubusercontent.com/53383007/180023952-4fd6609d-3bff-42a5-aec3-380260489371.png)
